@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800mm" height="1300mm" version="1.1" viewBox="0 0 1800 1300" xml:space="preserve">
+  <defs>
+    <filter id="filter13370" x="-.0306" y="-.027626" width="1.0612" height="1.0553" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="1.4499258"></feGaussianBlur>
+    </filter>
+    <filter id="filter1294-8" x="-.21068" y="-.21068" width="1.4214" height="1.4214" color-interpolation-filters="sRGB">
+      <feGaussianBlur result="blur" stdDeviation="7.3488246"></feGaussianBlur>
+    </filter>
+    <clipPath id="clipPath23372">
+      <path d="m0 0h597.75v585.75h-597.75z"></path>
+    </clipPath>
+    <clipPath id="clipPath23382">
+      <path d="m0 0h446.25v585h-446.25z"></path>
+    </clipPath>
+    <clipPath id="clipPath23394">
+      <path d="m0 0h597v585h-597z"></path>
+    </clipPath>
+    <clipPath id="clipPath23456">
+      <path d="m78 11h70v27h-70z"></path>
+    </clipPath>
+    <clipPath id="clipPath23470">
+      <path d="m145 11h84v27h-84z"></path>
+    </clipPath>
+    <clipPath id="clipPath23484">
+      <path d="m263 4h71v18h-71z"></path>
+    </clipPath>
+    <clipPath id="clipPath23498">
+      <path d="m263 17h115v18h-115z"></path>
+    </clipPath>
+    <clipPath id="clipPath23512">
+      <path d="m263 31h81v18h-81z"></path>
+    </clipPath>
+    <clipPath id="clipPath23526">
+      <path d="m332 31h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath23540">
+      <path d="m263 44h60v18h-60z"></path>
+    </clipPath>
+    <clipPath id="clipPath23554">
+      <path d="m311 44h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath23568">
+      <path d="m316 44h57v18h-57z"></path>
+    </clipPath>
+    <clipPath id="clipPath23582">
+      <path d="m364 44h39v18h-39z"></path>
+    </clipPath>
+    <clipPath id="clipPath23596">
+      <path d="m263 58h48v18h-48z"></path>
+    </clipPath>
+    <clipPath id="clipPath23610">
+      <path d="m27 85h121v18h-121z"></path>
+    </clipPath>
+    <clipPath id="clipPath23624">
+      <path d="m28 108h352v18h-352z"></path>
+    </clipPath>
+    <clipPath id="clipPath23638">
+      <path d="m28 122h357v18h-357z"></path>
+    </clipPath>
+    <clipPath id="clipPath23652">
+      <path d="m28 135h386v18h-386z"></path>
+    </clipPath>
+    <clipPath id="clipPath23666">
+      <path d="m28 149h115v18h-115z"></path>
+    </clipPath>
+    <clipPath id="clipPath23680">
+      <path d="m27 176h119v18h-119z"></path>
+    </clipPath>
+    <clipPath id="clipPath23694">
+      <path d="m40 199h77v18h-77z"></path>
+    </clipPath>
+    <clipPath id="clipPath23712">
+      <path d="m221 199h91v18h-91z"></path>
+    </clipPath>
+    <clipPath id="clipPath23730">
+      <path d="m40 216h77v18h-77z"></path>
+    </clipPath>
+    <clipPath id="clipPath23748">
+      <path d="m221 216h102v18h-102z"></path>
+    </clipPath>
+    <clipPath id="clipPath23766">
+      <path d="m40 233h88v18h-88z"></path>
+    </clipPath>
+    <clipPath id="clipPath23784">
+      <path d="m221 233h166v18h-166z"></path>
+    </clipPath>
+    <clipPath id="clipPath23802">
+      <path d="m40 250h87v17h-87z"></path>
+    </clipPath>
+    <clipPath id="clipPath23820">
+      <path d="m221 250h92v17h-92z"></path>
+    </clipPath>
+    <clipPath id="clipPath23838">
+      <path d="m27 280h71v18h-71z"></path>
+    </clipPath>
+    <clipPath id="clipPath23852">
+      <path d="m28 303h87v18h-87z"></path>
+    </clipPath>
+    <clipPath id="clipPath23866">
+      <path d="m103 303h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath23880">
+      <path d="m109 303h85v18h-85z"></path>
+    </clipPath>
+    <clipPath id="clipPath23894">
+      <path d="m182 303h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath23908">
+      <path d="m187 303h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath23922">
+      <path d="m226 303h19v18h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath23940">
+      <path d="m235 303h43v18h-43z"></path>
+    </clipPath>
+    <clipPath id="clipPath23954">
+      <path d="m266 303h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath23968">
+      <path d="m272 303h59v18h-59z"></path>
+    </clipPath>
+    <clipPath id="clipPath23982">
+      <path d="m40 317h348v18h-348z"></path>
+    </clipPath>
+    <clipPath id="clipPath23996">
+      <path d="m40 330h48v18h-48z"></path>
+    </clipPath>
+    <clipPath id="clipPath24014">
+      <path d="m40 344h342v18h-342z"></path>
+    </clipPath>
+    <clipPath id="clipPath24032">
+      <path d="m40 357h363v18h-363z"></path>
+    </clipPath>
+    <clipPath id="clipPath24046">
+      <path d="m40 371h52v18h-52z"></path>
+    </clipPath>
+    <clipPath id="clipPath24064">
+      <path d="m28 390h93v18h-93z"></path>
+    </clipPath>
+    <clipPath id="clipPath24078">
+      <path d="m109 390h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24092">
+      <path d="m115 390h41v18h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath24106">
+      <path d="m144 390h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24120">
+      <path d="m150 390h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath24134">
+      <path d="m189 390h19v18h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath24152">
+      <path d="m198 390h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath24166">
+      <path d="m237 390h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24180">
+      <path d="m243 390h42v18h-42z"></path>
+    </clipPath>
+    <clipPath id="clipPath24194">
+      <path d="m40 404h336v18h-336z"></path>
+    </clipPath>
+    <clipPath id="clipPath24208">
+      <path d="m40 417h257v18h-257z"></path>
+    </clipPath>
+    <clipPath id="clipPath24226">
+      <path d="m40 431h333v18h-333z"></path>
+    </clipPath>
+    <clipPath id="clipPath24240">
+      <path d="m40 444h342v18h-342z"></path>
+    </clipPath>
+    <clipPath id="clipPath24258">
+      <path d="m40 458h344v18h-344z"></path>
+    </clipPath>
+    <clipPath id="clipPath24272">
+      <path d="m40 471h258v18h-258z"></path>
+    </clipPath>
+    <clipPath id="clipPath24290">
+      <path d="m28 491h81v18h-81z"></path>
+    </clipPath>
+    <clipPath id="clipPath24304">
+      <path d="m97 491h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24318">
+      <path d="m103 491h62v18h-62z"></path>
+    </clipPath>
+    <clipPath id="clipPath24332">
+      <path d="m153 491h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24346">
+      <path d="m158 491h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath24360">
+      <path d="m197 491h19v18h-19z"></path>
+    </clipPath>
+    <clipPath id="clipPath24378">
+      <path d="m206 491h51v18h-51z"></path>
+    </clipPath>
+    <clipPath id="clipPath24392">
+      <path d="m245 491h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24406">
+      <path d="m251 491h68v18h-68z"></path>
+    </clipPath>
+    <clipPath id="clipPath24420">
+      <path d="m40 504h360v18h-360z"></path>
+    </clipPath>
+    <clipPath id="clipPath24434">
+      <path d="m40 518h145v18h-145z"></path>
+    </clipPath>
+    <clipPath id="clipPath24452">
+      <path d="m40 531h373v18h-373z"></path>
+    </clipPath>
+    <clipPath id="clipPath24466">
+      <path d="m40 545h94v18h-94z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 558h378v18h-378z"></path>
+    </clipPath>
+    <clipPath id="clipPath24502">
+      <path d="m32.25 6h37.5v37.5h-37.5z"></path>
+    </clipPath>
+    <clipPath id="clipPath24514">
+      <path d="m0 0h597v585h-597z"></path>
+    </clipPath>
+    <clipPath id="clipPath24522">
+      <path d="m44 24h28v21h-28z"></path>
+    </clipPath>
+    <clipPath id="clipPath24542">
+      <path d="m0 0h597.75v585.75h-597.75z"></path>
+    </clipPath>
+    <clipPath id="clipPath24552">
+      <path d="m0 0h446.25v483h-446.25z"></path>
+    </clipPath>
+    <clipPath id="clipPath24564">
+      <path d="m0 0h597v585h-597z"></path>
+    </clipPath>
+    <clipPath id="clipPath24680">
+      <path d="m371 48h49v18h-49z"></path>
+    </clipPath>
+    <clipPath id="clipPath24694">
+      <path d="m371 81h49v18h-49z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40-2h53v18h-53z"></path>
+    </clipPath>
+    <clipPath id="clipPath24722">
+      <path d="m27 25h65v18h-65z"></path>
+    </clipPath>
+    <clipPath id="clipPath24736">
+      <path d="m28 48h86v18h-86z"></path>
+    </clipPath>
+    <clipPath id="clipPath24750">
+      <path d="m102 48h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24764">
+      <path d="m107 48h171v18h-171z"></path>
+    </clipPath>
+    <clipPath id="clipPath24778">
+      <path d="m28 62h103v18h-103z"></path>
+    </clipPath>
+    <clipPath id="clipPath24792">
+      <path d="m122 62h16v18h-16z"></path>
+    </clipPath>
+    <clipPath id="clipPath24808">
+      <path d="m128 62h42v18h-42z"></path>
+    </clipPath>
+    <clipPath id="clipPath24822">
+      <path d="m28 81h94v18h-94z"></path>
+    </clipPath>
+    <clipPath id="clipPath24836">
+      <path d="m110 81h15v18h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath24850">
+      <path d="m115 81h45v18h-45z"></path>
+    </clipPath>
+    <clipPath id="clipPath24864">
+      <path d="m28 95h87v18h-87z"></path>
+    </clipPath>
+    <clipPath id="clipPath24878">
+      <path d="m106 95h16v18h-16z"></path>
+    </clipPath>
+    <clipPath id="clipPath24894">
+      <path d="m112 95h42v18h-42z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m27 122h156v18h-156z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 145h50v18h-50z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m66 145h294v18h-294z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 159h51v18h-51z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m67 159h346v18h-346z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 172h76v18h-76z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m27 200h51v18h-51z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 223h146v18h-146z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 236h246v18h-246z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m27 264h89v18h-89z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 287h172v18h-172z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 300h271v18h-271z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m40 314h238v18h-238z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m27 341h136v18h-136z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 364h83v18h-83z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m99 364h243v18h-243z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 378h50v18h-50z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m66 378h283v18h-283z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m27 405h64v18h-64z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 428h45v18h-45z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m61 428h14v18h-14z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m66 428h38v18h-38z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 448h42v18h-42z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m58 448h15v18h-15z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m63 448h72v18h-72z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m28 467h47v18h-47z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m63 467h15v18h-15z"></path>
+    </clipPath>
+    <clipPath>
+      <path d="m68 467h84v18h-84z"></path>
+    </clipPath>
+  </defs>
+  <g id="bk" transform="translate(79.485 90.529)" stroke-width="1.5875">
+    <rect transform="matrix(6.5997 0 0 9.0155 -259.92 -852.46)" x="47.82" y="92.724" width="113.72" height="125.96" fill="#b3b3b3" filter="url(#filter13370)" style="mix-blend-mode:normal"></rect>
+    <rect x="-11.07" y="-69.139" width="790.87" height="1148.5" fill="#fff" stroke="#d8d8d8" stroke-width="1.5406"></rect>
+  </g>
+  <g transform="matrix(1.7439 0 0 -1.7439 73.523 1115.5)">
+    <g clip-path="url(#clipPath23372)">
+      <g transform="matrix(1,0,0,-1,0,585.75)">
+        <g clip-path="url(#clipPath23382)">
+          <path d="m0 0h446.25v585h-446.25z" fill="#fff"></path>
+        </g>
+        <g clip-path="url(#clipPath23394)">
+          <g fill="none" stroke="#000" stroke-miterlimit="10">
+            <path d="m414 104.5h-382"></path>
+            <path d="m414 195.5h-382"></path>
+            <path d="m414 299.5h-382"></path>
+          </g>
+          <g clip-path="url(#clipPath23456)">
+            <text transform="translate(83.25,30.75)" fill="#000000" font-family="Arial" font-size="16px" xml:space="preserve">
+              <tspan x="0 11.76 27.952 43.248001" y="0">JOHN</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23470)">
+            <text transform="translate(150,30.75)" fill="#000000" font-family="Arial" font-size="16px" xml:space="preserve">
+              <tspan x="0 14.432 28.864 43.279999 57.712002" y="0">ABBEY</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23484)">
+            <text transform="translate(268.8 16.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.072 15.112 20.152 25.191999 28 33.040001 38.071999 43.112 48.152 53.192001" y="0">55555 555555</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23498)">
+            <text transform="translate(268.8 29.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 9.6239996 14.664 21.912001 26.952 29.312 34.352001 43.063999 48.104 52.688 57.728001 64.975998 70.015999 72.375999 77.416 80.223999 84.816002 89.856003 92.664001 97.704002" y="0">example@example.co.uk</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23512)">
+            <text transform="translate(268.8 43.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.08 12.888 18.664 21.024 25.615999 28.424 33.464001 36.712002 39.071999 44.112 46.928001 53.287998 58.327999 63.360001" y="0">28 Victoria Road</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23526)">
+            <text transform="translate(337.2 43.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23540)">
+            <text transform="translate(268.8 56.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 7.2480001 12.288 17.327999 21.912001 26.952 31.983999 36.576 39.391998 44.424" y="0">Manchester</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23554)">
+            <text transform="translate(316.04 56.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23568)">
+            <text transform="translate(321.66 56.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 8.1359997 14.504 19.535999 24.576 27.392 32.424 38.792" y="0">WC67 2NC</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23582)">
+            <text transform="translate(369.62 56.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 13.768 16.576 21.615999" y="0">United</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23596)">
+            <text transform="translate(268.8 70.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 8.2880001 13.328 18.360001 23.4 28.440001" y="0">Kingdom</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23610)">
+            <text transform="translate(32.25,97.625)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan>PROFESSIONAL SUMMARY</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23624)">
+            <text transform="translate(33,120.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 13.176 18.216 20.576 23.392 25.752001 30.792 35.824001 40.416 43.223999 48.264 51.512001 56.551998 61.591999 66.624001 69.879997 72.688004 77.279999 80.087997 85.127998 90.160004 95.199997 98.015999 102.6 107.64 112.224 117.264 122.304 124.664 127.472 132.064 134.87199 137.24001 139.60001 144.192 149.224 154.26401 158.84801 163.888 168.92799 171.73599 176.776 181.36 185.952 190.992 196.024 201.064 203.88 206.688 211.728 216.312 221.35201 225.936 230.976 233.79201 236.15199 240.73599 245.776 248.592 254.952 257.31201 260.12799 265.168 267.97601 273.01599 277.60001 282.64001 285.888 288.70401 291.51199 296.552 301.58401 304.84 307.64801 312.23999 317.272 322.31201 325.56 330.15201 332.95999 338" y="0">Ambitious property and casualty licenced account executive with over four years of</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23638)">
+            <text transform="translate(33,134.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 9.6239996 14.664 19.704 22.952 25.312 30.351999 35.383999 39.976002 45.015999 47.832001 50.639999 57 62.040001 67.071999 69.440002 74.024002 79.064003 81.872002 86.912003 91.952003 94.767998 97.575996 102.616 105.424 110.016 115.048 120.088 125.128 128.37601 130.73599 135.776 139.032 141.84 146.424 148.79201 151.15199 156.192 161.23199 164.03999 166.84801 171.44 176.48 179.28799 181.64799 186.24001 189.048 194.088 198.67999 201.48801 203.84801 208.888 213.92799 216.73599 221.776 226.81599 231.856 234.664 239.248 244.28799 249.328 253.912 256.272 260.86401 263.672 268.71201 273.75201 276.56799 279.37601 282.62399 287.664 292.24799 297.28799 302.328 307.35999 312.39999 315.216 320.24799 323.504 328.53601 334.90399 337.71201 342.75201" y="0">experience. Dedicated to superior client satisfaction and consistent revenue growth.</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23652)">
+            <text transform="translate(33,147.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 14.648 17.903999 22.936001 27.976 30.792 33.152 37.743999 40.551998 47.799999 52.84 57.872002 62.911999 67.952003 72.984001 77.575996 80.391998 85.424004 90.463997 95.503998 100.768 103.576 108.616 113.2 117.792 120.152 125.192 130.224 135.26401 140.304 143.112 148.15199 152.73599 157.328 162.36 167.39999 172.44 175.248 179.84 182.64799 189.01601 194.048 196.416 198.776 203.81599 206.62399 211.664 216.70399 219.064 224.104 226.464 231.504 236.54401 239.35201 243.936 246.304 248.664 253.70399 258.74399 261.552 266.14401 268.952 276.20001 281.23999 286.272 291.31201 296.35199 301.392 304.20001 309.23999 314.272 319.31201 322.12799 325.37601 330.41599 335 340.04001 344.62399 349.664 352.91199 355.728 358.53601 361.79199 366.82401" y="0">Currently manages 177+ assigned accounts while helping clients manage and recover from</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23666)">
+            <text transform="translate(33,161.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 2.816 7.848 12.888 15.704 18.952 21.312 25.903999 30.488001 35.080002 37.888 42.928001 45.743999 48.551998 53.584 58.175999 63.216 66.463997 71.047997 76.087997 81.127998 85.711998 88.528 90.888 93.255997 96.064003 101.104" y="0">the risks of everyday life.</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23680)">
+            <text transform="translate(32.25,188.62)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan>SKILL</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23694)">
+            <text transform="translate(45,211.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.512 15.104 20.136 25.176001 30.216 33.032001 35.84 40.424 45.464001 48.712002 53.304001 55.664001 60.248001" y="0">Account service</tspan>
+            </text>
+          </g>
+          <path d="m39.398 207.55c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23712)">
+            <text transform="translate(226.25,211.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 8.7279997 11.088 16.128 21.167999 23.976 26.784 34.040001 39.071999 44.112 49.152 54.192001 59.223999 66.472 71.512001 76.552002" y="0">Client management</tspan>
+            </text>
+          </g>
+          <path d="m220.65 207.55c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23730)">
+            <text transform="translate(45,228.5)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 14.216 18.799999 21.16 25.752001 30.792 33.599998 38.639999 43.672001 46.040001 48.400002 52.992001 58.023998 61.271999" y="0">Service delivery</tspan>
+            </text>
+          </g>
+          <path d="m39.398 224.3c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23748)">
+            <text transform="translate(226.25,228.5)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 8.7360001 11.992 17.032 19.84 24.872 29.912001 32.271999 36.863998 39.672001 44.712002 49.751999 53 55.816002 60.848 65.888 69.136002 73.727997 78.760002 81.127998 86.160004" y="0">Strategic partnerships</tspan>
+            </text>
+          </g>
+          <path d="m220.65 224.3c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23766)">
+            <text transform="translate(45,245.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 13.328 15.688 20.728001 23.535999 26.792 31.823999 34.192001 39.231998 42.040001 44.400002 49.439999 54.472 59.063999 64.103996 66.463997 71.503998" y="0">Build relationships</tspan>
+            </text>
+          </g>
+          <path d="m39.398 241.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23784)">
+            <text transform="translate(226.25,245.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 16.440001 21.472 24.728001 27.544001 30.351999 35.391998 40.424 45.015999 50.048 52.416 57.448002 62.487999 69.736 74.776001 79.816002 82.632004 85.440002 90.472 95.512001 100.552 103.36 108.4 111.648 116.688 121.272 126.312 131.35201 134.16 139.2 142.01601 144.37601 149.416" y="0">Report development and presentation</tspan>
+            </text>
+          </g>
+          <path d="m220.65 241.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23802)">
+            <text transform="translate(45,262)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.512 15.552 20.584 23.84 26.656 29.464001 34.504002 39.535999 44.576 49.616001 52.424 54.792 59.832001 62.639999 65 70.040001" y="0">Expert negotiation</tspan>
+            </text>
+          </g>
+          <path d="m39.398 257.8c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23820)">
+            <text transform="translate(226.25,262)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.3280001 10.36 12.728 17.76 22.799999 26.048 31.087999 36.127998 40.712002 45.751999 50.792 53.599998 58.192001 63.223999 65.592003 67.952003 70.311996 75.351997" y="0">Value-based selling</tspan>
+            </text>
+          </g>
+          <path d="m220.65 257.8c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath23838)">
+            <text transform="translate(32.25 292.62)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 6.0879998 12.176 18.264 24.351999 30.879999 33.855999 39.936001 46.464001 52.992001" y="0">EXPERIENCE</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23852)">
+            <text transform="translate(33,315.75)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 16.440001 21.912001 27.392 32.863998 36.112 38.928001 46.175999 51.216 56.688 61.728001 67.199997 72.239998" y="0">Account Manager</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23866)">
+            <text transform="translate(108.94 315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23880)">
+            <text transform="translate(114.56 315.75)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 5.48 12.288 18.216 23.688 28.728001 32.431999 37.903999 42.944 45.751999 52.560001 56.264 61.743999 67.216003" y="0">LGEnergy Group</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23894)">
+            <text transform="translate(187.25,315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23908)">
+            <text transform="translate(192.88 315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 18.816 23.848 28.888 33.928001" y="0">Sep 2022</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23922)">
+            <text transform="translate(234.65 315.75)" fill="#000000" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">‐</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23940)">
+            <text transform="translate(240.71 315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 14.648 17.903999 22.936001 27.976" y="0">Current</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23954)">
+            <text transform="translate(271.5,315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23968)">
+            <text transform="translate(277.12 315.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 7.2480001 12.288 17.327999 21.912001 26.952 31.983999 36.576 39.391998 44.424" y="0">Manchester</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23982)">
+            <text transform="translate(45,329.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.512 13.328 17.912001 20.728001 25.76 30.351999 33.16 38.200001 41.448002 43.816002 51.063999 56.104 59.352001 63.944 66.751999 71.335999 76.375999 81.416 84.223999 89.264 93.856003 96.664001 99.480003 102.288 107.328 110.576 113.384 117.976 123.016 126.264 131.304 136.336 139.592 144.632 147.44 152.48 155.28799 159.87199 162.24001 164.60001 169.64 174.67999 177.48801 182.08 184.888 187.248 192.28799 196.87199 199.24001 204.272 209.312 211.672 216.71201 221.752 224.56 229.60001 234.64 239.672 244.71201 247.968 250.776 255.81599 260.84799 263.216 266.02399 268.392 273.42401 278.01599 280.832 283.64001 288.67999 291.48801 296.52802 301.56 306.15201 311.19199 313.552 315.91199 318.728 323.76801 330.57599" y="0">Acts as primary contact for corporate clients including opportunities to upsell LGE</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath23996)">
+            <text transform="translate(45,342.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 4.592 9.6239996 12.872 17.464001 19.823999 24.416 29.448 34.040001" y="0">services.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 325.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24014)">
+            <text transform="translate(45,356.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 15.552 20.584 23.84 28.872 33.464001 36.271999 41.312 43.672001 46.040001 48.848 53.888 58.928001 63.959999 67.216003 69.575996 74.615997 79.199997 82.015999 87.047997 90.304001 95.344002 98.152 103.192 108.224 112.816 119.176 124.216 127.464 132.504 137.54401 140.35201 145.392 150.424 155.464 158.272 162.864 167.90401 171.15199 175.73599 178.104 182.688 187.728 192.312 195.12801 200.16 203.416 208.45599 211.26401 216.304 221.336 223.70399 226.064 230.64799 235.688 238.936 243.976 249.01601 251.82401 254.192 259.23199 262.04001 267.07999 269.888 272.70401 275.064 282.31201 287.35199 289.71201 294.30399 297.112 304.35999 309.39999 314.44 319.47198 324.51199 327.328" y="0">Ensures all queries are answered and services are delivered in a timely manner.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 352.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24032)">
+            <text transform="translate(45,369.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 2.816 7.848 12.888 17.927999 20.736 23.104 25.912001 28.271999 33.312 37.903999 40.712002 45.304001 50.335999 52.703999 57.736 62.776001 67.367996 70.176003 72.991997 78.024002 83.064003 85.879997 88.688004 93.272003 98.311996 103.352 106.16 111.2 116.24 119.048 121.416 128.664 133.70399 136.064 141.104 148.35201 153.392 158.43201 161.24001 166.272 171.312 174.12801 180.48801 185.528 187.888 190.248 195.28799 198.104 202.688 207.728 212.75999 217.8 222.84 226.088 228.90401 231.26401 236.304 241.34399 244.15199 249.192 254.224 258.81601 261.63199 264.44 269.47198 274.064 278.64801 283.68799 288.728 293.76801 296.57599 299.384 306.64001 311.672 316.71201 321.75201 326.79199 331.82401 339.07199 344.112 349.15201" y="0">Identifies values that can be implemented while supporting best account management</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24046)">
+            <text transform="translate(45,383.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 8.2880001 13.328 17.912001 20.728001 23.087999 27.672001 32.712002 37.304001" y="0">practises.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 365.55c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24064)">
+            <text transform="translate(33,402.75)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 16.440001 21.912001 27.392 32.863998 36.112 38.928001 44.848 49.888 54.928001 59.967999 65.440002 68.688004 71.503998 76.536003" y="0">Account Executive</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24078)">
+            <text transform="translate(114.58 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24092)">
+            <text transform="translate(120.2,402.75)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 21.927999 26.968" y="0">PayPal</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24106)">
+            <text transform="translate(149.98 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24120)">
+            <text transform="translate(155.6 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 18.816 23.848 28.888 33.928001" y="0">Sep 2021</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24134)">
+            <text transform="translate(197.38 402.75)" fill="#000000" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">‐</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24152)">
+            <text transform="translate(203.44 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 18.816 23.848 28.888 33.928001" y="0">Sep 2022</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24166)">
+            <text transform="translate(242.4 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24180)">
+            <text transform="translate(248.02 402.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.072 15.112 20.152 25.191999" y="0">London</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24194)">
+            <text transform="translate(45,416.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 13.328 15.688 18.504 21.312 26.351999 31.392 36.431999 39.240002 44.271999 48.863998 53.903999 58.487999 63.528 66.335999 71.375999 76.416 79.223999 83.816002 86.624001 89.872002 94.912003 97.727997 102.76 107.8 110.16 115.2 119.792 122.6 125.416 130.448 135.48801 138.304 141.112 145.70399 150.73599 155.776 158.584 161.84 164.2 169.24001 174.28 177.088 182.12801 187.168 189.976 192.79201 197.832 200.64 205.672 210.71201 213.528 218.56 223.60001 231.304 236.92799 241.96001 245.216 250.248 256.616 259.42401 264.46399 267.272 269.64001 274.67999 277.48801 282.07199 287.112 294.35999 301.616 306.64801 309.896 314.48801 316.84799 321.888" y="0">Built and executed strategies that contributed to an 80% growth in commercial</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24208)">
+            <text transform="translate(45,429.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 3.2479999 8.2880001 10.648 15.688 18.504 20.864 25.903999 30.936001 35.528 40.560001 42.928001 47.959999 52.551998 55.360001 61.728001 64.087997 66.903999 71.944 74.751999 77.559998 82.599998 87.639999 90.888 93.704002 96.064003 101.104 104.352 109.392 114.432 117.24 122.272 127.312 132.35201 135.168 137.976 143.01601 147.60001 150.416 153.224 158.26401 161.51199 166.552 172.912 175.272 180.312 185.35201 188.16 195.416 200.448 203.696 208.28799 213.328 216.136 221.17599 223.536 228.576 233.16 238.2 242.79201" y="0">relationships with four large and fast growing marketplaces.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 412.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24226)">
+            <text transform="translate(45,443.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 2.816 7.848 12.44 15.688 20.728001 25.76 30.351999 35.391998 40.431999 43.240002 46.487999 51.528 56.112 61.152 66.192001 71.223999 76.264 79.071999 84.112 87.360001 92.400002 98.767998 101.576 106.616 109.424 114.464 119.056 121.864 124.224 129.26401 134.304 139.34399 142.15199 144.51199 147.328 151.912 154.272 159.312 164.35201 167.16 169.528 174.56 176.92799 179.73599 182.104 187.144 189.952 192.312 196.90401 201.936 206.528 209.34399 212.15199 216.73599 219.992 225.024 229.616 234.2 237.448 242.03999 247.07201 249.44 251.8 254.16 259.20001 264.23999 267.048 272.08801 277.12799 282.168 284.97601 290.01599 295.048 299.64001 304.672 307.04001 309.39999 311.76001 316.79999" y="0">Increased revenue growth by identifying initiatives, cross-selling and upselling</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24240)">
+            <text transform="translate(45,456.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.072 15.112 20.152 23.4 26.216 31.247999 36.287998 38.655998 41.464001 43.824001 48.863998 53.456001 56.264 59.071999 63.664001 68.704002 71.952003 79.199997 84.239998 87.487999 92.071999 97.112 99.928001 102.288 107.328 112.368 115.176 120.216 123.464 128.504 133.536 136.79201 141.82401 149.07201 156.328 161.36 165.952 168.75999 173.8 178.84 183.88 186.688 191.272 196.312 198.672 203.71201 206.528 208.888 213.92799 218.96001 223.552 226.368 229.17599 234.216 239.256 242.064 244.87199 252.12801 257.168 259.97601 262.784 267.37601 272.41599 277 279.81601 284.84799 292.104 297.13599 300.392 303.20001 308.23999 313.272 318.31201 323.35199 327.944" y="0">opportunities, co-marketing programmes and solutions that met customer needs.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 439.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24258)">
+            <text transform="translate(45,470.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 16.440001 21.48 24.288 26.648001 31.688 34.504002 39.535999 44.576 47.383999 51.976002 57.015999 64.264 71.512001 76.552002 79.800003 84.391998 86.751999 91.792 94.152 96.968002 99.776001 104.816 108.064 115.312 119.904 122.712 125.528 130.56 135.60001 138.416 141.224 146.26401 151.304 156.336 161.37601 164.192 166.552 169.36 174.39999 179.44 182.256 185.064 190.104 195.144 197.952 202.536 207.576 214.82401 219.864 224.90401 229.936 234.528 237.336 239.70399 244.73599 249.328 251.688 256.728 261.76001 264.12799 269.16 274.20001 277.01599 281.60001 286.64001 291.67999 294.48801 297.73599 302.776 307.36801 310.17599 314.76801 317.57599 322.616 327.64801" y="0">Negotiated commercial terms that benefited the company including contracts and</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24272)">
+            <text transform="translate(45,483.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.072 13.328 18.360001 23.4 30.648001 35.688 40.728001 43.535999 48.127998 50.936001 57.304001 59.664001 62.472 67.512001 70.328003 74.912003 79.952003 84.543999 87.351997 92.391998 94.751999 99.792 104.824 109.864 112.224 117.264 120.08 122.888 125.248 130.28799 135.328 140.368 143.17599 145.992 151.024 154.272 161.528 164.336 168.92799 173.96001 176.328 181.36 186.39999 189.216 192.024 197.064 200.312 203.12801 208.16 210.528 212.888 215.70399 220.73599 225.776 229.032 231.84 234.2 239.24001 243.832" y="0">agreements with sustainable, long term value for all parties.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 466.05c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24290)">
+            <text transform="translate(33,503.25)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 5.928 10.968 13.776 18.816 23.856001 26.664 33.023998 38.063999 43.104 48.576 53.616001 56.424 61.464001 64.711998" y="0">Sales Associate</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24304)">
+            <text transform="translate(102.75,503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24318)">
+            <text transform="translate(108.38 503.25)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 6.368 11.84 16.879999 22.360001 27.4 32.880001 35.688 41.16 44.416" y="0">AnyVan Ltd</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24332)">
+            <text transform="translate(158.26 503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24346)">
+            <text transform="translate(163.89 503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 18.816 23.848 28.888 33.928001" y="0">Sep 2019</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24360)">
+            <text transform="translate(205.66 503.25)" fill="#000000" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">‐</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24378)">
+            <text transform="translate(211.73 503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 10.96 16 18.816 23.848 28.888 33.928001" y="0">Sep 2021</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24392)">
+            <text transform="translate(250.69 503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0" y="0">,</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24406)">
+            <text transform="translate(256.31 503.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 6.3600001 11.4 18.648001 25.903999 30.936001 34.183998 38.776001 46.023998 48.391998 51.200001" y="0">Hammersmith</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24420)">
+            <text transform="translate(45,516.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.928 9.1759996 14.216 18.799999 21.16 26.200001 31.24 36.279999 39.088001 44.127998 49.16 54.200001 57.015999 62.048 66.639999 69.447998 74.487999 79.528 84.568001 87.375999 89.736 92.103996 97.136002 99.503998 104.088 109.128 114.168 116.976 123.336 125.704 128.51199 133.552 136.368 139.17599 142.424 147.464 152.504 157.088 162.12801 167.16 170.416 173.23199 176.03999 181.07201 184.328 189.36 193.952 196.312 201.35201 206.384 209.64 214.23199 217.03999 219.84801 224.888 227.70399 232.73599 237.328 241.912 244.272 248.864 251.67999 254.48801 259.07199 264.112 268.70401 271.51199 276.552 283.79999 288.84 292.08801 296.67999 299.48801 305.84799 308.216 311.02399 316.064 318.87201 326.12799 331.16 335.75201 338.112 343.15201" y="0">Provided quotes and liaised with transport providers to assist customers with moving</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24434)">
+            <text transform="translate(45,530.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 2.368 5.1760001 10.216 17.464001 22.056 24.864 27.224001 32.264 35.071999 40.112 42.928001 47.512001 52.551998 57.144001 59.952 63.200001 68.239998 70.903999 73.711998 78.751999 83.344002 86.152 88.512001 93.103996 98.143997 100.952 108.2 113.24 118.272 123.312 128.35201 131.168" y="0">items in a cost-effective manner.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 512.55c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+          <g clip-path="url(#clipPath24452)">
+            <text transform="translate(45,543.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.4720001 10.512 12.872 15.24 20.271999 26.639999 31.672001 36.712002 39.528 44.560001 49.599998 52.416 58.776001 61.144001 63.952 68.991997 71.800003 76.391998 81.424004 86.015999 88.823997 93.863998 101.112 106.152 109.4 113.992 116.8 119.616 124.648 127.904 132.936 137.976 143.01601 148.056 150.864 155.90401 160.936 165.976 171.01601 176.056 178.864 183.448 188.48801 190.84801 193.216 197.8 200.616 205.64799 210.688 215.728 218.536 223.576 230.82401 235.864 238.224 240.584 245.17599 247.992 250.8 255.84 258.64801 263.68799 268.272 272.86401 277.90399 281.15201 286.19199 289 294.04001 296.39999 300.992 303.79999 306.16 311.20001 316.23999 321.28 324.08801 326.45599 329.26401 333.85599 336.664 341.70401 346.73599 351.776 356.81601" y="0">Followed up with customers through phone calls and emails to accurately identify needs</tspan>
+            </text>
+          </g>
+          <g clip-path="url(#clipPath24466)">
+            <text transform="translate(45,557.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+              <tspan x="0 5.04 10.072 15.112 17.927999 22.511999 27.552 34.799999 39.84 42.200001 47.240002 50.048 55.088001 57.903999 62.487999 67.528 69.888 74.928001 79.512001" y="0">and complete sales.</tspan>
+            </text>
+          </g>
+          <path d="m39.398 539.55c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z"></path>
+        </g>
+        <g clip-path="url(#clipPath24502)">
+          <path d="m32.25 6h37.5v37.5h-37.5z"></path>
+        </g>
+        <g clip-path="url(#clipPath24514)">
+          <g clip-path="url(#clipPath24522)">
+            <text transform="translate(49.312 38)" fill="#ffffff" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+              <tspan x="0 7.4250002" y="0">JA</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(929.11,90.529)" stroke-width="1.5875">
+    <rect transform="matrix(6.5997,0,0,9.0155,-259.92,-852.46)" x="47.82" y="92.724" width="113.72" height="125.96" fill="#b3b3b3" filter="url(#filter13370)" style="mix-blend-mode:normal"></rect>
+    <rect x="-11.067" y="-69.136" width="790.87" height="1157.5" fill="#fff" stroke="#d8d8d8" stroke-width="1.5464"></rect>
+  </g>
+  <g transform="translate(620.35 -171.24)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 257.2 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect67578);white-space:pre" aria-label="1">
+      <path d="m-108.53 1171.4h-8.6666v-125.49h-14.56v-8.6666h23.227v134.16z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(-156.74,-30.72)">
+    <circle transform="matrix(1.0221 0 0 1.0074 -4.157 138.66)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="466.79" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 249.8 174.62)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69418);white-space:pre" aria-label="3">
+      <path d="m-88.943 1173.7q-17.333 0-30.16-8.3199-12.307-8.32-16.813-21.84l8.1466-2.7733q3.9867 11.44 14.213 17.853t24.613 6.4133q7.4533 0 13.867-2.7733 6.5867-2.7734 11.44-7.6267t7.6267-11.267q2.9467-6.5867 2.9467-14.04t-2.9467-13.867q-2.7733-6.5867-7.6267-11.44t-11.44-7.6267q-6.4133-2.7733-13.867-2.7733-6.0667 0-11.267 1.7333l-15.6 5.2 49.227-54.426h-54.773v-8.6667h74.36l-42.987 47.493h1.04q9.0133 0 16.987 3.2934 8.1467 3.2933 14.56 9.7066 6.24 6.24 9.5333 14.387 3.4667 7.9733 3.4667 16.987 0 8.84-3.4667 16.987-3.2933 8.1467-9.5333 14.387-6.4133 6.24-14.56 9.7066-7.9733 3.2933-16.987 3.2933z" stroke="none"></path>
+    </g>
+    <g transform="matrix(1.7439,0,0,-1.7439,1086.3,1252.6)">
+      <g clip-path="url(#clipPath24542)">
+        <g transform="matrix(1,0,0,-1,0,585.75)">
+          <g clip-path="url(#clipPath24552)">
+            <path d="m0 0h446.25v483h-446.25z" fill="#fff"></path>
+          </g>
+          <g clip-path="url(#clipPath24564)">
+            <path d="m414 44.5h-382" fill="none" stroke="#000" stroke-miterlimit="10"></path>
+            <g clip-path="url(#clipPath24680)">
+              <text transform="translate(376.83,60.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.928 10.96 14.216 17.024 22.063999 27.104 32.136002" y="0">Apr 2018</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24694)">
+              <text transform="translate(376.83,93.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.928 10.96 14.216 17.024 22.063999 27.104 32.136002" y="0">Apr 2016</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24722)">
+              <text transform="translate(32.25,37.625)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 6.0879998 12.616 19.136 25.664 31.6 37.240002 40.216 47.192001" y="0">EDUCATION</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24736)">
+              <text transform="translate(33,60.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 7.2480001 12.288 16.879999 19.688 24.728001 27.976 30.792 35.832001 38.639999 41.456001 47.375999 51.959999 54.327999 59.360001 64.400002 68.991997" y="0">Master of Science</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24750)">
+              <text transform="translate(107.02,60.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.816" y="0">, </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24764)">
+              <text transform="translate(112.65,60.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.928 10.512 15.104 20.136 25.176001 30.216 33.023998 35.391998 40.424 45.464001 48.271999 53.312 58.352001 63.391998 66.199997 71.671997 74.040001 79.071999 84.112 89.152 93.736 96.103996 101.136 103.504 106.312 113.56 118.6 123.64 128.672 133.71201 138.752 146 151.03999 156.08" y="0">Accounting and Financial Management</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24778)">
+              <text transform="translate(33,74.25)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 6.368 11.84 14.648 19.688 24.728001 28.424 33.464001 36.271999 39.528 44.568001 47.375999 52.848 56.104 58.911999 64.391998 69.863998 75.344002 80.816002 86.288002" y="0">University of London</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24792)">
+              <text transform="translate(127.58,74.25)" fill="#000000" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+                <tspan x="0" y="0">‐</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24808)">
+              <text transform="translate(133.64,74.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.04 10.072 15.112 20.152 25.191999" y="0">London</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24822)">
+              <text transform="translate(33,93.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.928 10.96 15.552 20.591999 25.624001 27.992001 33.023998 36.279999 39.088001 44.127998 46.944 49.751999 55.672001 60.264 62.624001 67.664001 72.695999 77.288002" y="0">Bachelor of Science</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24836)">
+              <text transform="translate(115.32,93.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 2.816" y="0">, </tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24850)">
+              <text transform="translate(120.95,93.75)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.4720001 7.8400002 12.872 17.912001 22.952 27.535999" y="0">Finance</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24864)">
+              <text transform="translate(33,107.25)" fill="#000000" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+                <tspan x="0 6.368 11.84 14.648 19.688 24.728001 27.976 30.792 37.152 42.632 45.439999 50.472 55.512001 59.216 64.255997 67.064003 70.311996" y="0">Unicaf University</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24878)">
+              <text transform="translate(111.16,107.25)" fill="#000000" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+                <tspan x="0" y="0">‐</tspan>
+              </text>
+            </g>
+            <g clip-path="url(#clipPath24894)">
+              <text transform="translate(117.22,107.25)" fill="#000000" font-family="Arial" font-size="8px" xml:space="preserve">
+                <tspan x="0 5.04 10.072 15.112 20.152 25.191999" y="0">London</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0 -504.31)" stroke-width="1.7439">
+    <path d="m1651.5 940.68h-666.17" fill="none" stroke="#000" stroke-miterlimit="10"></path>
+    <g fill="#000000" font-family="Arial" font-size="13.951px">
+      <text x="985.80078" y="928.6781" font-weight="bold" xml:space="preserve">
+        <tspan x="985.80078 995.63635 1007.0066 1018.3907 1030.5563 1041.9404 1053.3107 1065.4761" y="928.6781" stroke-width="1.7439">LANGUAGE</tspan>
+      </text>
+      <text x="987.1087" y="969.01453" font-weight="bold" xml:space="preserve">
+        <tspan x="987.1087 997.44653 1006.9891 1016.5457 1021.4426 1026.3534 1035.1427" y="969.01453" stroke-width="1.7439">English</tspan>
+      </text>
+      <text x="1044.6783" y="969.01453" xml:space="preserve">
+        <tspan x="1044.6783" y="969.01453" stroke-width="1.7439">,</tspan>
+      </text>
+      <text x="1054.4895" y="969.01453" xml:space="preserve">
+        <tspan x="1054.4895 1065.5807 1074.37 1079.2808 1083.3964 1091.3904" y="969.01453" stroke-width="1.7439">Native</tspan>
+      </text>
+      <text x="987.1087" y="1003.0206" font-weight="bold" xml:space="preserve">
+        <tspan x="987.1087 996.65131 1003.1107 1011.9 1021.4426 1030.2318" y="1003.0206" stroke-width="1.7439">French</tspan>
+      </text>
+      <text x="1039.7745" y="1003.0206" xml:space="preserve">
+        <tspan x="1039.7745" y="1003.0206" stroke-width="1.7439">,</tspan>
+      </text>
+      <text x="1049.5839" y="1003.0206" xml:space="preserve">
+        <tspan x="1049.5839 1059.9218 1065.5859 1074.3751 1079.2721 1083.3877 1091.3956 1095.5112 1104.3005 1113.0897 1118.0006 1122.8975 1128.5616 1139.6528 1148.4421" y="1003.0206" stroke-width="1.7439">Proficient (C2)</tspan>
+      </text>
+      <text x="987.1087" y="1037.0266" font-weight="bold" xml:space="preserve">
+        <tspan x="987.1087 997.44653 1006.9891 1015.7784 1025.321 1030.2318 1039.0211" y="1037.0266" stroke-width="1.7439">Spanish</tspan>
+      </text>
+      <text x="1048.5602" y="1037.0266" xml:space="preserve">
+        <tspan x="1048.5602" y="1037.0266" stroke-width="1.7439">,</tspan>
+      </text>
+      <text x="1058.3679" y="1037.0266" xml:space="preserve">
+        <tspan x="1058.3679 1063.2787 1072.068 1076.9648 1085.7542 1091.4183 1104.0581 1112.8473 1121.6227 1125.7522 1134.5415 1139.4384 1148.2275 1153.1244 1158.8026 1169.1265 1177.9158" y="1037.0266" stroke-width="1.7439">Intermediate (B1)</tspan>
+      </text>
+    </g>
+  </g>
+  <g transform="translate(-156.74 291.73)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 249.8 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69430);white-space:pre" aria-label="4">
+      <path d="m-52.889 1171.6h-8.6666v-23.053h-81.813l90.48-116.31v107.64h14.907v8.6667h-14.907v23.053zm-72.8-31.72h64.133v-82.333z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(1483.7 -47.446)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 249.8 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69442);white-space:pre" aria-label="5">
+      <path d="m-84.783 1173.7q-7.4533 0-14.387-2.2533-6.9333-2.08-13-5.8933-5.8933-3.9867-10.573-9.5333-4.68-5.5467-7.6266-12.48l7.9733-3.2933q4.8533 11.44 14.907 18.2 10.227 6.5867 22.707 6.5867 8.4933 0 15.947-3.12 7.4533-3.2933 13-8.84 5.5467-5.5466 8.6666-13 3.2933-7.4533 3.2933-15.947t-3.2933-15.947q-3.12-7.4533-8.6666-13t-13-8.6667q-7.4533-3.2933-15.947-3.2933-7.1067 0-13.693 2.4267-6.5866 2.2533-12.133 6.76l-6.9333 5.72v-60.667h63.96v8.6667h-55.293v34.667q1.7333-0.8667 3.4667-1.7334 1.9067-0.8666 3.8133-1.56 8.32-2.9466 16.813-2.9466 9.88 0 18.893 3.8133 9.0133 3.64 16.12 10.747 7.1067 7.1067 10.747 16.12 3.8133 9.0133 3.8133 18.893 0 10.053-3.8133 19.067-3.64 8.84-10.747 15.947-7.1067 7.1066-16.12 10.92-9.0133 3.64-18.893 3.64z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(1483.7 107.08)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 249.8 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69474);white-space:pre" aria-label="6">
+      <path d="m-52.889 1093.6q6.5867 6.5867 10.053 15.253 3.64 8.4933 3.64 17.853 0 9.5333-3.64 18.2-3.4667 8.4933-10.053 15.08-6.5867 6.5867-15.253 10.227-8.4933 3.4666-18.027 3.4666-9.36 0-18.027-3.4666-8.4933-3.64-15.08-10.227-6.5866-6.5866-10.227-15.08-3.4667-8.6667-3.4667-18.2 0-13.347 6.5867-24.093l38.133-67.08 7.6267 4.3334-25.307 44.373q4.5067-2.2533 9.5333-3.2933t10.227-1.04q9.5333 0 18.027 3.64 8.6666 3.4666 15.253 10.053zm-33.28 71.413q7.9733 0 14.907-2.9467 6.9333-3.12 12.133-8.32 5.2-5.1999 8.1467-12.133 3.12-6.9333 3.12-14.907 0-7.8-3.12-14.733-2.9467-6.9333-8.1467-12.133t-12.133-8.1467q-6.9333-3.12-14.907-3.12-7.8 0-14.733 3.12-6.9333 2.9467-12.133 8.1467t-8.32 12.133q-2.9467 6.9333-2.9467 14.733 0 7.9733 2.9467 14.907 3.12 6.9334 8.32 12.133 5.2 5.2 12.133 8.32 6.9333 2.9467 14.733 2.9467z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(1483.7 287.17)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 250.32 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69476);white-space:pre" aria-label="7">
+      <path d="m-110.61 1173.2-7.4533-4.5066 71.933-122.55h-81.987v-8.6667h97.066l-79.56 135.72z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(-156.74 -52.374)">
+    <circle transform="matrix(1.0221,0,0,1.0074,-4.157,-2.7788)" cx="234.61" cy="330.27" r="41.858" fill="#001776" fill-opacity=".22685" filter="url(#filter1294-8)" style="mix-blend-mode:normal"></circle>
+    <circle cx="226.41" cy="325.35" r="41.858" fill="#00f" stroke="#fff" stroke-width=".79375"></circle>
+    <g transform="matrix(.26458 0 0 .26458 248.21 33.182)" fill="#fdfdff" fill-opacity=".92593" stroke="#fff" stroke-width="3" style="shape-inside:url(#rect69490);white-space:pre" aria-label="2">
+      <path d="m-45.436 1171.6h-85.106l7.6266-7.4533q5.0266-5.0266 11.44-11.267 6.4133-6.24 13-12.653 6.5867-6.5867 13-12.827t11.44-11.267q5.2-5.0267 8.4933-8.32t3.9867-3.9867q0.17333-0.3466 0.86666-1.04 1.2133-1.3866 3.12-3.6399 2.08-2.4267 3.8133-5.5467 1.9067-3.2933 3.12-7.28 1.3867-3.9866 1.3867-8.6666 0-6.9334-2.7733-13-2.6-6.24-7.1067-10.747-4.5067-4.5066-10.747-7.1066-6.24-2.7733-13.173-2.7733-5.72 0-11.093 1.9066-5.2 1.7334-9.5333 5.0267-4.16 3.2933-7.28 7.9733-3.12 4.5067-4.68 10.053-1.04 4.16-1.04 8.6667h-8.6666q0-5.0267 1.3867-10.92 1.7333-6.9333 5.72-12.653 3.9867-5.8933 9.36-10.053 5.5467-4.16 12.133-6.4134 6.5867-2.2533 13.693-2.2533 8.6666 0 16.293 3.12 7.6267 3.12 13.693 9.1867 6.0667 6.0666 9.1866 13.867 3.2933 7.6266 3.2933 16.12 0 6.0666-1.7333 11.093-1.56 5.0266-3.8133 9.0133-2.08 3.8133-4.5067 6.5866-2.2533 2.7734-3.64 4.3334l-0.86666 0.8666-0.17333 0.1734v0.1733q-0.17333 0.1733-3.12 2.9467-2.7733 2.7733-7.4533 7.4533-4.5067 4.5066-10.4 10.227-5.72 5.5467-11.787 11.44-5.8933 5.8933-11.613 11.44-5.5467 5.3733-9.7066 9.5333h63.96z" stroke="none"></path>
+    </g>
+  </g>
+  <g transform="translate(0 164.23)" stroke-width="1.7439">
+    <g fill="none" stroke="#000" stroke-miterlimit="10">
+      <path d="m1651.5 447.15h-666.17"></path>
+      <path d="m1651.5 581.43h-666.17"></path>
+      <path d="m1651.5 693.04h-666.17"></path>
+      <path d="m1651.5 829.07h-666.17"></path>
+    </g>
+    <path d="m998.27 714.93c1.5395 0 2.793 1.2466 2.793 2.7862 0 1.5396-1.2534 2.793-2.793 2.793s-2.7862-1.2534-2.7862-2.793c0-1.5396 1.2466-2.7862 2.7862-2.7862z"></path>
+    <path d="m998.27 738.47c1.5395 0 2.793 1.2466 2.793 2.7862 0 1.5396-1.2534 2.793-2.793 2.793s-2.7862-1.2534-2.7862-2.793c0-1.5396 1.2466-2.7862 2.7862-2.7862z"></path>
+    <path d="m998.27 762.01c1.5395 0 2.793 1.2466 2.793 2.7862 0 1.5396-1.2534 2.793-2.793 2.793s-2.7862-1.2534-2.7862-2.793c0-1.5396 1.2466-2.7862 2.7862-2.7862z"></path>
+    <g fill="#000000" font-family="Arial" font-size="13.951px">
+      <text x="985.80078" y="435.15439" font-weight="bold" xml:space="preserve">
+        <tspan stroke-width="1.7439">PROFESSIONNAL DEVELOPMENT</tspan>
+      </text>
+      <text x="987.1087" y="475.49081" font-weight="bold" xml:space="preserve">
+        <tspan x="987.1087 998.21387 1003.1107 1012.6673 1017.5641 1027.1068 1040.5417 1049.3171" y="475.49081" stroke-width="1.7439">Diploma:</tspan>
+      </text>
+      <text x="1059.9008" y="475.49081" xml:space="preserve">
+        <tspan x="1059.9008 1070.2247 1078.2327 1086.2267 1095.016 1103.8052 1112.5945 1117.4913 1122.3882 1135.042 1143.8173 1152.6066 1161.3958 1170.1711 1178.9603 1191.6001 1200.3894 1209.1786 1214.0895 1218.9863 1224.6505 1229.5614 1240.6526 1250.9904 1255.8872 1266.2251 1271.8893 1280.6786 1285.5754 1294.3646 1302.3586 1310.3667 1314.4823 1323.2716 1332.0469 1340.8361 1344.9657 1349.8625 1360.9537 1369.743 1377.7371 1386.5262 1390.642 1399.4312 1408.2203 1420.8602 1429.6494 1438.4387 1443.3356 1448.2465 1458.5703 1466.5782 1475.3535 1484.1428 1492.9321 1505.5719 1513.5798 1518.4767 1526.2196 1535.7623" y="475.49081" stroke-width="1.7439">Account Management - UK Professional Development Academy LTD</tspan>
+      </text>
+      <text x="987.1087" y="499.03345" font-weight="bold" xml:space="preserve">
+        <tspan x="987.1087 998.21387 1007.7565 1017.2991 1023.7585 1032.5338 1041.3231 1050.1123" y="499.03345" stroke-width="1.7439">Courses:</tspan>
+      </text>
+      <text x="1060.6855" y="499.03345" xml:space="preserve">
+        <tspan x="1060.6855 1071.0095 1079.7987 1083.9143 1092.7036 1100.7115 1105.6085 1115.9463 1123.9403 1131.9343 1140.7236 1144.8392 1148.9688 1157.7441 1166.5333 1174.5414 1183.3306 1188.2274 1193.8916 1198.8025 1209.1263 1217.9156 1223.5798 1227.6954 1235.7034 1244.4927 1257.1324 1265.9218 1274.7109 1279.6078 1288.3832 1294.0613 1302.0692 1306.9662 1311.877 1316.7738 1326.3164 1335.1057 1343.8949 1352.6703 1361.4595 1374.0994 1382.8885 1391.6779 1396.5747 1405.3639 1409.4795 1417.4875 1422.3844 1431.1737 1436.0845 1440.9813 1451.3192 1460.0945 1468.1025 1473.0133 1483.3372 1491.3313 1499.3392 1508.1284 1516.9038 1525.6931 1530.6039 1535.5007 1548.1405 1556.9298 1565.719 1574.4944 1583.2836 1592.0729 1604.7126 1613.502 1622.2911 1627.188 1632.085" y="499.03345" stroke-width="1.7439">Sales Excellence - Enrichmentors ; Fundamentals of Key Account Management -</tspan>
+      </text>
+      <text x="987.1087" y="522.57611" xml:space="preserve">
+        <tspan x="987.1087 998.19989 1006.9891 1019.629 1027.637 1031.7526 1040.5417 1048.5498 1053.4467 1062.9893 1068.6534 1077.4427 1085.4507 1094.2261" y="522.57611" stroke-width="1.7439">Hemsley Fraser</tspan>
+      </text>
+      <text x="985.80078" y="570.30664" font-weight="bold" xml:space="preserve">
+        <tspan x="985.80078 996.4176 1010.1317 1021.5019 1032.8861 1044.2703" y="570.30664" stroke-width="1.7439">AWARDS</tspan>
+      </text>
+      <text x="985.80078" y="681.91626" font-weight="bold" xml:space="preserve">
+        <tspan x="985.80078 997.18494 1007.8018 1019.186 1029.0077 1034.1975 1044.0331 1049.209 1060.5931 1070.9589 1080.7805 1085.9703 1098.1359 1109.52" y="681.91626" stroke-width="1.7439">CERTIFICATIONS</tspan>
+      </text>
+      <text x="1008.0355" y="722.25262" xml:space="preserve">
+        <tspan x="1008.0355 1012.9464 1021.7216 1029.7296 1034.6265 1038.756 1043.653 1052.4421 1057.339 1066.1283 1071.0391 1079.8284 1084.7252 1089.6361 1099.1787 1103.2943 1112.0835 1120.8728 1129.6481 1137.6561 1141.7717 1150.5609 1154.6765 1159.5874 1169.9113 1177.9193 1185.9133 1194.7025 1203.4779 1212.2671 1217.178 1225.9532 1234.7426 1239.6533 1247.6473 1252.5582 1258.2224 1263.1332 1271.9225 1282.2463" y="722.25262" stroke-width="1.7439">Institute of Financial Accountants (IFA)</tspan>
+      </text>
+      <text x="1008.0355" y="745.79529" xml:space="preserve">
+        <tspan x="1008.0355 1019.1267 1027.916 1036.7052 1042.3694 1047.2803 1056.0555 1061.7336 1070.509 1079.2982 1084.2091 1089.106 1097.8951 1105.8892 1110.8 1114.9156 1119.8264 1128.6157 1133.5126 1142.3019 1147.1987 1155.9879 1160.8988 1165.7957 1176.1335 1184.9088 1193.6981 1197.8137 1201.9293 1209.9373 1214.8481 1224.3907 1228.5063 1237.2955 1246.0848 1254.8601 1262.8682 1271.6573 1276.5542 1285.3435 1294.1188 1302.9081 1307.8188 1318.1428 1326.1508 1334.1448 1342.9341 1351.7094 1360.4987 1365.4094 1374.1848 1382.974 1390.968 1398.9761 1403.8729 1409.551 1420.6422 1425.5531 1435.8909 1444.6663 1455.004" y="745.79529" stroke-width="1.7439">Chartered Institute of Public Finance and Accountancy (CIPFA)</tspan>
+      </text>
+      <text x="1008.0355" y="769.33795" xml:space="preserve">
+        <tspan x="1008.0355 1018.3734 1026.3674 1034.3754 1043.1506 1051.1587 1055.2743 1064.0635 1068.9604 1073.09 1081.8652 1090.6545 1095.5653 1104.3546 1109.2515 1114.1483 1125.2535 1134.0288 1142.818 1148.4962 1153.3931 1162.1683 1167.8464 1176.6218 1185.411 1190.3219 1201.4131 1210.2024 1215.8666 1220.7773 1224.8929 1229.7898 1233.9194 1242.6947 1251.484 1256.3948 1266.7186 1274.7267 1282.7207 1291.5099 1300.2992 1309.0885 1313.9854 1322.7606 1331.5498 1336.4607 1344.4547 1349.3656 1355.0298 1365.3676 1376.4589 1387.564 1397.8878" y="769.33795" stroke-width="1.7439">Association of Chartered Certified Accountants (ACCA)</tspan>
+      </text>
+      <text x="985.80078" y="817.06848" font-weight="bold" xml:space="preserve">
+        <tspan stroke-width="1.7439">VOLUNTEER WORK</tspan>
+      </text>
+      <text x="987.1087" y="857.40491" font-weight="bold" xml:space="preserve">
+        <tspan stroke-width="1.7439">Manchester Conservation Centre</tspan>
+      </text>
+      <text x="985.1795" y="879.22205" xml:space="preserve">
+        <tspan stroke-width="1.7439">Collaborated with 20 local volunteers to renovate a park near the city.</tspan>
+      </text>
+    </g>
+    <text x="1008.0355" y="610.64307" fill="#000000" font-family="Arial" font-size="13.951px" xml:space="preserve">
+      <tspan x="1008.0355 1016.0435 1024.8188 1033.608 1038.5049 1047.2942 1056.0834 1061.7476 1066.6584 1075.4337 1081.1119 1093.7517 1102.527 1107.4377 1112.3486 1117.2594 1127.5834 1136.3726 1140.4882 1149.2635 1157.2715 1162.1823 1167.0792 1175.8684 1184.6438 1197.2975 1202.2083 1207.1052 1215.8944 1224.6697 1233.459" y="610.64307" stroke-width="1.7439">Top performer, Sales team, 2020</tspan>
+    </text>
+    <path d="m998.27 603.32c1.5395 0 2.793 1.2466 2.793 2.7862 0 1.5396-1.2534 2.793-2.793 2.793s-2.7862-1.2534-2.7862-2.793c0-1.5396 1.2466-2.7862 2.7862-2.7862z"></path>
+    <path d="m998.27 626.86c1.5395 0 2.793 1.2466 2.793 2.7862 0 1.5396-1.2534 2.793-2.793 2.793s-2.7862-1.2534-2.7862-2.793c0-1.5396 1.2466-2.7862 2.7862-2.7862z"></path>
+    <text x="1008.0355" y="634.18573" fill="#000000" font-family="Arial" font-size="13.951px" xml:space="preserve">
+      <tspan x="1008.0355 1019.9219 1028.7112 1033.608 1041.6161 1046.5129 1055.3021 1064.0775 1072.8667 1076.9823 1085.7716 1094.5608 1099.4717 1109.7955 1117.7896 1126.5789 1130.6945 1139.4838 1147.4778 1156.267 1168.9067 1177.696 1186.4854 1191.3961 1196.293 1200.4086 1209.1979 1214.0947 1225.1998 1233.9752 1241.9832 1246.88 1255.6693 1268.3091 1277.0984 1282.7765 1287.6733 1297.9972 1306.7865 1311.6974 1315.813 1323.8209 1328.7178 1337.5071 1345.5011 1350.4119 1354.5275 1363.3168 1372.1061 1377.0029 1381.9137 1390.689 1399.4783 1408.2676" y="634.18573" stroke-width="1.7439">Outstanding Achievement in Customer Satisfaction, 2022</tspan>
+    </text>
+  </g>
+</svg>
